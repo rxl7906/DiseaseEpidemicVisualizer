@@ -1,6 +1,6 @@
 # Choropleth Map Visualization of the Zika Disease Epidemic within the US
 
-![](ChoroplethMaps/d3-cloropleth-map (1)?raw=true)
+![alt tag](https://raw.githubusercontent.com/rxl7906/DiseaseEpidemicVisualizer/ChoroplethMaps/d3-cloropleth-map (1).png)
 
 # Problem #
 Whenever there is a disease epidemic, specialists such as the CDC would like to track the origins of the disease and understand how it migrated over time. How can we provide a visual aspect to understanding how a disease migrates among the human population over time?
