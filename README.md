@@ -34,4 +34,4 @@ The dataset consists of the Zika virus migration across the world. I took the da
 # Other applications #
 Human Trafficking - Track when and where human trafficking activity happens and send law enforcers to arrest criminals.
 Crime - Track when and where crime happens across the world and send law enforcers to those areas. 
-Finance - Where and when did somebody make a transaction?
+Finance - Where and when did somebody make a transaction? Fraud detection
