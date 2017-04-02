@@ -1,9 +1,12 @@
 # Choropleth Map Visualization of the Zika Disease Epidemic within the US
 
 ![Alt Text](https://github.com/rxl7906/DiseaseEpidemicVisualizer/raw/master/ChoroplethMaps/4_20_2016.png)
+
+Link below provides slideshow:
 http://htmlpreview.github.io/?https://github.com/rxl7906/DiseaseEpidemicVisualizer/blob/master/slideshow.html
+
 # Problem #
-Whenever there is a disease epidemic, specialists such as the CDC would like to track the origins of the disease and understand how it migrated over time. How can we provide a visual aspect to understanding how a disease migrates among the human population over time?
+Whenever there is a disease epidemic, CDC specialists track the origins of the disease and try to understand how it migrated over time. How can we provide a visual aspect to understanding how a disease migrates among the human population over time?
 
 # Dataset #
 The dataset is from Kaggle: https://www.kaggle.com/cdc/zika-virus-epidemic
@@ -16,10 +19,10 @@ The dataset consists of the Zika virus migration across the world. I took the da
 # Technologies/APIs used #
 - Python (Juypter notebook) - curate the data for each report date, feed the curated data for a Plotly API call to generate the Choropleth map. 
 - Plotly API - generate the Choropleth map
+- Javascript/HTML/CSS - used for rendering the slideshow
 
 # Future #
 - Fix image generation
-- Provide UI for looping thru timeline of images
 
 # Issues faced #
 - There exists geographic mapping libraries however due to the many different varibles you can have, there are a lot of geographic mapping libraries to search thru in order to find the one that suits your dataset.
