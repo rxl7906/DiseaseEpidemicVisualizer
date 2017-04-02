@@ -8,6 +8,9 @@ http://htmlpreview.github.io/?https://github.com/rxl7906/DiseaseEpidemicVisualiz
 # Problem #
 Whenever there is a disease epidemic, CDC specialists track the origins of the disease and try to understand how it migrated over time. How can we provide a visual aspect to understanding how a disease migrates among the human population over time?
 
+# Proposed Solution #
+The goal would be to provide a disease tracker to record real-time occurrences and updates. If we could visualize where there's a influx of occurrences we could potentially contain the disease and prevent it from spreading.
+
 # Dataset #
 The dataset is from Kaggle: https://www.kaggle.com/cdc/zika-virus-epidemic
 The dataset consists of the Zika virus migration across the world. I took the data concerned with Zika disease occurrences within the United States.
@@ -26,3 +29,9 @@ The dataset consists of the Zika virus migration across the world. I took the da
 
 # Issues faced #
 - There exists geographic mapping libraries however due to the many different varibles you can have, there are a lot of geographic mapping libraries to search thru in order to find the one that suits your dataset.
+
+
+# Other applications #
+Human Trafficking - Track when and where human trafficking activity happens and send law enforcers to arrest criminals.
+Crime - Track when and where crime happens across the world and send law enforcers to those areas. 
+Finance - Where and when did somebody make a transaction?
